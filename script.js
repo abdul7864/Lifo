@@ -10,18 +10,18 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Superhit Nasheed - Cheetay Ka Jigar Rakhtay Hain", filePath: "songs/1.mp3", coverPath: "covers/1.png"},
+    {songName: "Cheetay Ka Jigar ", filePath: "songs/1.mp3", coverPath: "covers/1.png"},
     {songName: "Hum Ashab Ke Khadim", filePath: "songs/2.mp3", coverPath: "covers/2.png"},
     {songName: "Shaheen ", filePath: "songs/3.mp3", coverPath: "covers/3.png"},
-    {songName: " Hum Ko Maloom Hai Hum Nishane Pe Hain", filePath: "songs/4.mp3", coverPath: "covers/4.png"},
-    {songName: "Ay Nojawan - Teri Manzil Hy Yahan", filePath: "songs/5.mp3", coverPath: "covers/5.png"},
-    {songName: "Hum Ko Mita Sake Ya Zamane Main Dum Nahi", filePath: "songs/2.mp3", coverPath: "covers/6.png"},
-    {songName: "Chalna Para Hai Tanha Koi nahi Kisi Ka", filePath: "songs/2.mp3", coverPath: "covers/7.png"},
-    {songName: "Aay Dushman E Deen - Salahuddin Al Maroofi", filePath: "songs/2.mp3", coverPath: "covers/8.png"},
-    {songName: "Dil Mein Shahadat Ki Tarap", filePath: "songs/2.mp3", coverPath: "covers/9.png"},
+    {songName: " Hum Ko Maloom Hai ", filePath: "songs/4.mp3", coverPath: "covers/4.png"},
+    {songName: " Teri Manzil Hy ", filePath: "songs/5.mp3", coverPath: "covers/5.png"},
+    {songName: "Hum Ko Mita Sake Ya ", filePath: "songs/2.mp3", coverPath: "covers/6.png"},
+    {songName: "Chalna Para Hai ", filePath: "songs/2.mp3", coverPath: "covers/7.png"},
+    {songName: "Aay Dushman E Deen ", filePath: "songs/2.mp3", coverPath: "covers/8.png"},
+    {songName: "Dil Mein Shahadat ", filePath: "songs/2.mp3", coverPath: "covers/9.png"},
     {songName: "Labaik Ya Aqsa", filePath: "songs/10.mp3", coverPath: "covers/10.png"},
     {songName: "AL Qusu lan labaik ", filePath: "songs/11.mp3", coverPath: "covers/11.png"},
-    {songName: " Wo Deen e Muhammad Ke Wafadar Kahan Hain", filePath: "songs/12.mp3", coverPath: "covers/12.png"},
+    {songName: " Wo Deen e Muhammad Ke", filePath: "songs/12.mp3", coverPath: "covers/12.png"},
 ]
 
 songItems.forEach((element, i)=>{ 
