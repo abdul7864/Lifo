@@ -18,9 +18,10 @@ nav ul{
     align-items: center;
     list-style-type: none;
     justify-content: center;
-    height: 80px;
+    height: 72px;
     background-color: rgb(70, 9, 65);
     color: rgb(255, 255, 255);
+    margin-right: 12;
 }
 
 nav ul li{
@@ -46,6 +47,10 @@ nav ul li{
 .brand img{
   width: 50px;
   padding: 0 8px;
+}
+.name{
+  display: flex;
+  justify-items: center;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
