@@ -25,62 +25,62 @@ const music_list = [
         img : 'images/1.png',
         name : 'Cheetay Ka Jigar',
         artist : 'Abdullaha mahbob',
-        music : 'music/1.mp3'
+        music : 'songs/1.mp3'
     },
     {
         img : 'images/2.png',
         name : 'Hum Ashab Ke Khadim',
         artist : 'Siddique umer Waliya',
-        music : 'music/2.mp3'
+        music : 'songs/2.mp3'
     },
     {
         img : 'images/3.png',
         name : 'Shaheen',
         artist : 'Muaviya Bin Azam',
-        music : 'music/3.mp3'
+        music : 'songs/3.mp3'
     },
     {
         img : 'images/4.png',
         name : 'Hum Ko Maloom Hai',
         artist : 'Hafeez ur rahman',
-        music : 'music/4.mp3'
+        music : 'songs/4.mp3'
     },
     {
         img : 'images/5.png',
         name : 'Teri Manzil Hai yaha ',
         artist : 'Eman Club',
-        music : 'music/5.mp3',
+        music : 'songs/5.mp3',
         
     },
     {
         img : 'images/6.png',
         name : 'Hum Ko Mita Sake Ya',
         artist : 'Sibghatullah Iqbal',
-        music : 'music/6.mp3'
+        music : 'songs/6.mp3'
     },
     {
         img : 'images/7.png',
         name : 'Chalna Para Hai',
         artist : 'Hafiz Hassan Anzar',
-        music : 'music/7.mp3'
+        music : 'songs/7.mp3'
     },
     {
         img : 'images/8.png',
         name : 'Aay Dushman E Deen',
         artist : 'Salahuddin Al Maroofi -',
-        music : 'music/8.mp3'
+        music : 'songs/8.mp3'
     },
     {
         img : 'images/9.png',
         name : 'SDil Mein Shahadat',
         artist : 'Abdulla Mahboob',
-        music : 'music/9.mp3'
+        music : 'songs/9.mp3'
     },
     {
         img : 'images/10.png',
         name : 'Labaik Ya Aqsa',
         artist : 'Muaviya Bin Azam',
-        music : 'music/10.mp3'
+        music : 'songs/10.mp3'
     },
    
 ];
