@@ -72,7 +72,7 @@ const music_list = [
     },
     {
         img : 'images/9.png',
-        name : 'SDil Mein Shahadat',
+        name : 'Dil Mein Shahadat',
         artist : 'Abdulla Mahboob',
         music : 'songs/9.mp3'
     },
@@ -81,7 +81,7 @@ const music_list = [
         name : 'Labaik Ya Aqsa',
         artist : 'Muaviya Bin Azam',
         music : 'songs/10.mp3'
-    },
+    }
    
 ];
 
