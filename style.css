@@ -28,8 +28,19 @@ nav ul li{
 .brand{
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
     font-weight: bolder;
     font-size: 1.7rem;
+}
+.brand1{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.brand1 img{
+    width: 44px;
+    padding: 0 8px;
 }
 .brand img{
     width: 44px;
@@ -42,7 +53,7 @@ nav ul li{
    font-family: 'Varela Round', sans-serif;
    display: flex;
    margin: 23px auto;
-   width: 50%;
+   width: 78%;
    border-radius: 12px;
    padding: 34px;
    background-image: url('bg.webp');
@@ -78,25 +89,26 @@ nav ul li{
     align-items: center;
     display: flex;
     bottom: 0;
-    height: 100px;
+    height: 120px;
     background-color: rgb(65, 58, 58);
     color: white;
     display: flex;
     flex-direction: column;
     
     
+    
 
 }
 
 .icons{
-    margin-top: 14px; 
+    margin-top: 02px; 
 }
 .icons i{
     cursor: pointer;
 }
 
 #myProgressBar{
-    width: 85vw; 
+    width: 100vw; 
     cursor: pointer;
 }
 
